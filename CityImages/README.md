@@ -1,10 +1,10 @@
-Create an app with Swift programming language for ios
-Add an icon for the app for all the sizes
-Change the name of the app to City Images
-In the Main storyboard add a Image Control
-Add 5 buttons in the app
-change names of buttons to Seattle, Los angles, Austin, New york, Las vegas
-Add 5 images in the app which will correspond to 5 cities, 
-Create 1x,2x, 3x images 
-When I click on a button the image on the image control should change corresponding to the city
-Default image should load up when the app starts 
+- Create an app with Swift programming language for ios
+- Add an icon for the app for all the sizes
+- Change the name of the app to City Images
+- In the Main storyboard add a Image Control
+- Add 5 buttons in the app
+- change names of buttons to Seattle, Los angles, Austin, New york, Las vegas
+- Add 5 images in the app which will correspond to 5 cities, 
+- Create 1x,2x, 3x images 
+- When I click on a button the image on the image control should change corresponding to the city
+- Default image should load up when the app starts 
