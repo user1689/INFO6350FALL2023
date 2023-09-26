@@ -9,7 +9,7 @@ import UIKit
 
 class TableViewController: UITableViewController {
     
-    let foodsNames = ["DimSum","Salmon","Ramen","FriedRice"]
+    let foodsNames = ["DimSum","Salmon","Ramen","FriedRice","Shrimp"]
 
     @IBOutlet var tblView: UITableView!
     
