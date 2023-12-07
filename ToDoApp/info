@@ -1,0 +1,19 @@
+step1 create table view
+step2 create table view cell
+step3 add a reuse identifier to table view cell
+step4 add bar button item (opening a alert instead of a new view controller will be required in exam)
+step5 add a new view controller
+step6 `control` + `drag and drop` bar button item -> new view controller
+step7 add UITableViewDelegate, UITableViewDataSource to ViewController
+step8 fill out method named tableview
+step9 `control` + `drag and drop` tableview -> control plane for datasource and delegate
+step10 install RealmSwift using pod
+step11 create cocoa touch class extends UIViewController for the new view controller
+step12 add a text file, horizontally, and vertically in container, l: 20, r: 20, h: 40, apply margin
+step13 add a button, `control` + `drag and drop` button -> AddTodoViewController as saveTodoAction
+step14 update arr in ViewController
+step15 add viewDidAppear
+step16 `control` + `drag and drop` TableView -> ViewController, and using tblView.reloadData() to refresh tableView and invoke it inside getDataFromDB, add getDataFromDB in ViewController and invoke it inside viewDidAppear
+step17 add tableView(..., editingStyle, ...), and the delete element from todos and row at tableView
+step18 add deleteDataFromDB, and invoke it inside tablView(..., editingStyle, ...)
+
