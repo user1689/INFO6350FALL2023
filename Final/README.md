@@ -29,3 +29,10 @@ ______
 8. Iterating TableViewCell with corresponding names and phones
 
 ## Topic03
+1. Creating a segue for user input and protocol for sending data to Main ViewController 
+2. Two ways to show a segue
+    - `Control Drag AND Drop` the whole ViewController to segue, clicking `show` on drop down box, and adding performSegue in action of Bar Button Item  
+    - `Control Drag AND Drop` Bar Button Item to segue and clicking `show`on drop down box, storing data in realm when user input is ready on segue, and reloading tableView and querying data from realm after segue was poped out
+
+## Topic04
+1. Querying stock data from api, reloading tableView when data is ready
