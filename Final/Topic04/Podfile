@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Topic04' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Topic04
+  pod "Alamofire"
+  pod "SwiftSpinner"
+  pod "SwiftyJSON"
+end

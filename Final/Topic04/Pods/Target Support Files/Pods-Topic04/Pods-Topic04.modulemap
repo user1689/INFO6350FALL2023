@@ -1,0 +1,6 @@
+framework module Pods_Topic04 {
+  umbrella header "Pods-Topic04-umbrella.h"
+
+  export *
+  module * { export * }
+}
