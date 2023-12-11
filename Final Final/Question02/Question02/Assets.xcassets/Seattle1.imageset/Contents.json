@@ -6,10 +6,12 @@
       "scale" : "1x"
     },
     {
+      "filename" : "Seattle1@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "Seattle1@3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
