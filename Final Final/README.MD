@@ -3,6 +3,7 @@ ______
 ## Question01
 Create an app which will display weather in a table view by making API call at https://us-central1-fir-api-s-8d31b.cloudfunctions.net/app  
 ![Question01](./question01.png)
+<img src="./question01.png" width=400px>
 
 ## Question02
 Create an app which will show images from Seattle in a table view which is scrollable  
